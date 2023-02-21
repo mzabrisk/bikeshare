@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 201908-citibike-tripdata.csv
 201908-citibike-tripdata-cleaned.csv
+.DS_Store
 
 # C extensions
 *.so
