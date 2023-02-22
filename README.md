@@ -1,9 +1,9 @@
 # bikeshare
 
 ## Overview
-Our company is considering open a bike rental service in Des Moines, IA, similar to citibike in New York City. We are condunting an analysis of bike trips in New York during the month of August 2019 to help determine whether or not the service has potential for Des Moines.
+Our company is considering opening a bike rental service in Des Moines, IA, similar to citibike in New York City. We are condunting an analysis of bike trips in New York during the month of August 2019 to help determine whether or not the service has potential for Des Moines.
 
-[link to dashboard](https://public.tableau.com/app/profile/matthew.zabriskie/viz/bikeshare_challenge_16764313438410/CitibikeAnalysis?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/matthew.zabriskie/viz/bikeshare_challenge_16764313438410/CitibikeAnalysis?publish=yes "link to tableu story")
 
 
 ## Results
@@ -61,5 +61,5 @@ Some useful additional analyses would be:
 
 
 Further analysis of Des Moines would be required before setting up a comparable bikeshare program. Key information would be knowledge about dense starting and ending areas:
-    - are there locations where many people work within a small radius and thus a few stations could serve many?
-    - are there locations where many people live, or would otherwise start a bike commute within a small radius? In NYC, these could be close to appartment buildings, or even subway stations. Are there similar places in Des Moines? Are Iowans likely to commute via bicycle, or will we be depending on non-commuter use?
+- are there locations where many people work within a small radius and thus a few stations could serve many?
+- are there locations where many people live, or would otherwise start a bike commute within a small radius? In NYC, these could be close to appartment buildings, or even subway stations. Are there similar places in Des Moines? Are Iowans likely to commute via bicycle, or will we be depending on non-commuter use?
