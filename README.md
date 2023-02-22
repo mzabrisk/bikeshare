@@ -3,7 +3,7 @@
 ## Overview
 Our company is considering opening a bike rental service in Des Moines, IA, similar to citibike in New York City. We are condunting an analysis of bike trips in New York during the month of August 2019 to help determine whether or not the service has potential for Des Moines.
 
-[link to dashboard](https://public.tableau.com/app/profile/matthew.zabriskie/viz/bikeshare_challenge_16764313438410/CitibikeAnalysis?publish=yes "link to tableu story")
+[link to Tableau story](https://public.tableau.com/app/profile/matthew.zabriskie/viz/bikeshare_challenge_16764313438410/CitibikeAnalysis?publish=yes "link to Tableu story")
 
 
 ## Results
